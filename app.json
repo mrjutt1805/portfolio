@@ -1,3 +1,14 @@
 {
-  "status": "ok"
+  "name": "Rizwan Jutr Portfolio",
+  "description": "Rizwan Jutr Portfolio",
+  "env": {
+    "DATABASE_URL": {
+      "description": "Database URL for Rizwan Jutr Portfolio",
+      "required": true
+    },
+    "DB_NAME": {
+      "description": "Database Name",
+      "value": "Rizwan Jutr Portfolio"
+    }
+  }
 }
